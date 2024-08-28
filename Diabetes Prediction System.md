@@ -1,4 +1,5 @@
 **# Diabetes Prediction System**
+
 **#Project Overview**
 The Diabetes Prediction System is a machine learning-based project aimed at predicting whether an individual has diabetes based on certain diagnostic measurements included in the dataset. This project utilizes a dataset of patient information and various machine learning techniques to develop a predictive model that can assist in early diagnosis.
 
@@ -10,6 +11,7 @@ The Diabetes Prediction System is a machine learning-based project aimed at pred
 - Model Evaluation: Evaluate the model's performance using accuracy as the metric.
 
 **# Installation**
+
 To run the notebook, you need to have Python installed on your machine. Additionally, you'll need to install the following libraries:
 
 
